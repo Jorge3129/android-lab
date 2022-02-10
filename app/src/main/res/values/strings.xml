@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="copyright">©Heorhii Sanchenko 2020</string>
+    <string name="app_icon">app_icon</string>
+    <string name="new_activity">Submit</string>
+    <string name="new_activity_text">New Activity</string>
+    <string name="enter_age">Enter age:</string>
+    <string name="enter_name">Enter name:</string>
+    <string name="age">Age:</string>
+    <string name="name">Name:</string>
+    <string name="feedback">Please give your feedback:</string>
+    <string name="return_button">Return</string>
+    <string name="feedback_title">Feedback:</string>
+    <string name="feedback_value">no feedback yet:)</string>
+    <string name="age_value" />
+    <string name="name_value" />
+</resources>
